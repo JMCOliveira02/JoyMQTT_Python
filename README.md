@@ -1,7 +1,6 @@
 # JoyMQTT_Python
 This repository contains a program written in Python that reads inputs from a Joystick, processes them and sends them to a MQTT broker
 ## Prerequisites
-## Prerequisites
 ### Python 
 * Python 3.11.8
   * [Python 3.11.8 download page](https://www.python.org/downloads/release/python-3118/)
