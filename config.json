@@ -1,6 +1,6 @@
 {
-    "broker_host": "93.102.121.195",
-    "broker_port": 120,
+    "broker_host": "127.0.0.1", 
+    "broker_port": 1883,
     "topic_vel": "/moses/cmd_vel",
     "topic_odom": "/moses/odom",
     "deadzone": 0.1
